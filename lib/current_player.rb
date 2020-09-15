@@ -5,5 +5,3 @@ board.each do |board|
   turn_count += 1
 end
 end
-
-
